@@ -9,8 +9,10 @@ Day - 1 (17th October, Monday)
 7. shell7.sh - Conditional statements (if-elif-else-fi) (maximummm of three user given numbers)
 8. shell8.sh - Calculator program using the conditional statements
 9. shell9.sh - While, For, Until loop constructs (uses alphabets.txt file)
-
-
+10. shell10.sh - Dealing with the conditional statements
+11. shell11.sh - Greetings message depending on the hour value
+12. shell12.sh - Printing first n numbers of Fibonacci Series
+13. shell13.sh - Pattern printing - 1
 
 
 Day - 2 (18th October, Tuesday)
