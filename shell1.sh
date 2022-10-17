@@ -1,3 +1,4 @@
+# Dealing with echo command and escape sequence characters
 # This is a comment line in shell script...
 
 echo "Welcome to the World of Shell Scripting..."
@@ -7,6 +8,8 @@ echo This line is with out any         quotes...
 
 echo -e "\n\t\tThis line is with escape sequence characters..."
 echo -e "So there is a \v vertical tab here..."
+echo -e \\n\\n\\t\\tThis line is with out any         quotes...
+
 
 echo "End of the shell script..."
 
