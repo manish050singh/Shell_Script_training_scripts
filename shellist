@@ -5,7 +5,7 @@ Day - 1 (17th October, Monday)
 3. shell3.sh - Case-switch usage (Version - 2) (with bc)
 4. shell4.sh - Case-switch usage (Version - 3) (with bash syntax only)
 5. shell5.sh - Dealing with bc command and check its help
-
+6. shell6.sh - Experiments with expr
 
 Day - 2 (18th October, Tuesday)
 -------------------------------
