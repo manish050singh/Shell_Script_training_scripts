@@ -2,9 +2,9 @@ Day - 1 (17th October, Monday)
 ------------------------------
 1. shell1.sh - Dealing with echo command and escape sequence characters
 2. shell2.sh - Case-switch usage (Version - 1) (with expr)
-3. shell3.sh - 
-
-
+3. shell3.sh - Case-switch usage (Version - 2) (with bc)
+4. shell4.sh - Case-switch usage (Version - 3) (with bash syntax only)
+5. shell5.sh - Dealing with bc command and check its help
 
 
 Day - 2 (18th October, Tuesday)

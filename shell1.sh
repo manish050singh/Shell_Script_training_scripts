@@ -28,3 +28,4 @@ echo "End of the shell script..."
 # type cd
 # which pwd
 # which cd
+# expr can deal with only integer arithmetic
