@@ -6,6 +6,12 @@ Day - 1 (17th October, Monday)
 4. shell4.sh - Case-switch usage (Version - 3) (with bash syntax only)
 5. shell5.sh - Dealing with bc command and check its help
 6. shell6.sh - Experiments with expr
+7. shell7.sh - Conditional statements (if-elif-else-fi) (maximummm of three user given numbers)
+8. shell8.sh - Calculator program using the conditional statements
+
+
+
+
 
 Day - 2 (18th October, Tuesday)
 -------------------------------
