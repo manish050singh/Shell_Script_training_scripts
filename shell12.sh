@@ -1,11 +1,10 @@
-# Printing first n numbers of Fibonacci Series
+# Printing first n numbers of Fibonacci Series where n will be given as command line argument
 # Fibonacci Series:
 #   index ->  1  2  3  4  5  6  7  8  9 10 ... 
 # numbers ->  0  1  1  2  3  5  8 13 21 34 ...
 # In Fibonacci Series, the first two terms are 0 and 1. And any next term is equal to the sum of the previous two terms.
 
-echo -e "\nPlease enter the number of terms: \c"
-read n
+n=$1
 
 f1=0
 if [ $n -ge 1 ] ; then

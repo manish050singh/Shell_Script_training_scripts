@@ -11,15 +11,15 @@ Day - 1 (17th October, Monday)
 9. shell9.sh - While, For, Until loop constructs (uses alphabets.txt file)
 10. shell10.sh - Dealing with the conditional statements
 11. shell11.sh - Greetings message depending on the hour value
-12. shell12.sh - Printing first n numbers of Fibonacci Series
+12. shell12.sh - Printing first n numbers of Fibonacci Series where n will be given as command line argument
 13. shell13.sh - Pattern printing - 1
-
 
 Day - 2 (18th October, Tuesday)
 -------------------------------
-
-
-
+14. shell14.sh - Dealing with command line arguments
+15. shell15.sh - Adding all command line arguments
+16. shell16.sh - Checking the existence of a file/directory and display its type
+17. shell17.sh - 
 
 Day - 3 (19th October, Wednesday)
 ---------------------------------
