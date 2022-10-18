@@ -26,6 +26,9 @@ Day - 2 (18th October, Tuesday)
 21. shell21.sh - Making one input name proper
 22. shell22.sh - Check whether a given string iis Palindrome or not
 23. shell23.sh - Calendar shell script with roman month number as command line argument (Class Assignment - 2 / Day-2)
+24. shell24.sh - Dealing with comm and diff commands (uses commdata1.dat and commdata2.dat files)
+25. shell25.sh - List those usernames logged-out or logged-in in the last 15 seconds
+
 
 
 
