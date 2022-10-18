@@ -28,10 +28,11 @@ Day - 2 (18th October, Tuesday)
 23. shell23.sh - Calendar shell script with roman month number as command line argument (Class Assignment - 2 / Day-2)
 24. shell24.sh - Dealing with comm and diff commands (uses commdata1.dat and commdata2.dat files)
 25. shell25.sh - List those usernames logged-out or logged-in in the last 15 seconds
-
-
-
-
+26. shell26.sh - User defined functions in shell script
+27. shell27.sh - User defined functions in shell script more study
+28. shell28.sh - More on user defined functions
+29. shell29.sh - Prime check function
+30. shell30.sh - Using prime check function we shall find all prime numbers within a user given range
 
 
 

@@ -50,6 +50,6 @@ echo -e "\nEnd of the shell script...\n"
 # $# -> Number of command line arguments passed excluding $0 i.e. the file name itself
 # $@, $* -> To print all command line arguments as a string excluding the file name
 # $1, $2, $3, ... -> Command line arguments passed
-# #? -> Return value of a command or a function, where 0 denotes the command succeeded and 1 denotes that the command failed.
+# $? -> Return value of a command or a function, where 0 denotes the command succeeded and 1 denotes that the command failed.
 
 
