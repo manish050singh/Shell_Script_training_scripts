@@ -44,7 +44,6 @@ awk -F"|" '$3 == "director" || $3 == "chairman" {printf "%-20s, %-12s, %d\n", $2
 awk -F"|" '$3 == "director " || $3 == "chairman " {printf "%-20s, %-12s, %10.2f\n", $2, $3, $6}' emp.lst
 awk -F"|" '$3 == "director" || $3 == "chairman" {printf "%-20s, %-12s, %10.2f\n", $2, $3, $6}' emp1.lst
 
-
 # Regular Expession Rules:
 # ------------------------
 # g* means no 'g' or multiple 'g' characters i.e. null, 'g', 'gg', 'ggg', 'gggg' and so on...
