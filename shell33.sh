@@ -27,7 +27,26 @@ while [ $i -le $n ] ; do
 	i=`expr $i + 1`
 done
 
-# Take a search value from the user and search it in the virtual array
+echo -e "\nSearching a data item in the virtual array..."
+echo -en "\tPlease enter your search item: "
+read search_item
+i=1
+my_flag=0
+while [ $i -le $n ] ; do
+	var=a$i
+	b=$var
+	eval value=\$$b
+	if [ $value = $search_item ] ; then
+		echo -e "\t$search_item has been found successfully at the location $b or at index $i..."
+		my_flag=1
+		break
+	fi
+	i=`expr $i + 1`
+done
+
+if [ $my_flag = 0 ] ; then
+	echo -e "\tUnsuccessful searching against the search_item = $search_item..."
+fi
 
 echo -e "\nEnd of the shell script...\n"
 
