@@ -44,8 +44,8 @@ Day - 3 (19th October, Wednesday)
 36. shell36.sh - Dealing with the grep command (uses emp.lst and emp1.lst data files)
 37. shell37.sh - Dealing with the sed command (uses emp.lst and emp1.lst files)
 38. shell38.sh - Dealing with the awk command (uses emp.lst and emp1.lst files)
-39. shell39.sh - Creating text report using awk command (uses student_marks.dat file)
-
+39. shell39.sh / shell39.awk - Creating text report using awk command (uses student_marks.dat file)
+40. shell40.sh - Calculator program using user defined functions (modified)
 
 
 
