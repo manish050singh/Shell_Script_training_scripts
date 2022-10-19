@@ -42,7 +42,7 @@ Day - 3 (19th October, Wednesday)
 34. shell34.sh - Dealing with indexed array in bash shell syntax
 35. shell35.sh - Sorting of array contents using bubble sort algorithm
 36. shell36.sh - Dealing with the grep command (uses emp.lst and emp1.lst data files)
-
+37. shell37.sh - Dealing with the sed command (uses emp.lst and emp1.lst files)
 
 
 
