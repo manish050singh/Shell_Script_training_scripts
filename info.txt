@@ -1,0 +1,13 @@
+MCQ Practice links:
+Test on Unix Shell Scripting: https://bit.ly/3DGVocL
+
+Linux / Unix Study Material online: 
+https://rlworkman.net/howtos/rute/node1.html
+
+For HTML color codes visit:
+https://htmlcolorcodes.com/
+
+For echo output color codes visit:
+https://misc.flogisoft.com/bash/tip_colors_and_formatting
+Footer
+

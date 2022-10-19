@@ -1,0 +1,14 @@
+block
+bsg
+char
+disk
+dri
+hugepages
+input
+mapper
+mqueue
+net
+pts
+shm
+snd
+vfio
