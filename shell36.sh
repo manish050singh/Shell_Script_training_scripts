@@ -98,5 +98,5 @@ grep -E "(sen|das)gupta" emp.lst
 # g+ means single or multiple 'g' characters i.e. 'g', 'gg', 'ggg', 'gggg' and so on...
 # * means any substring including null
 # . means any one character
-# a? meand either a single 'a' or no 'a'
+# a? means either a single 'a' or no 'a'
 
