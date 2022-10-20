@@ -47,11 +47,17 @@ Day - 3 (19th October, Wednesday)
 39. shell39.sh / shell39.awk - Creating text report using awk command (uses student_marks.dat file)
 40. shell40.sh - Calculator program using user defined functions (modified)
 
-
-
-
 Day - 4 (20th October, Thursday)
 --------------------------------
+41. shell41.sh - Shell script to take the backup of the system
+42. shell42.sh - Shell script to show how to clean log files in Linux (Option - 1)
+
+
+
+
+
+
+
 
 
 
