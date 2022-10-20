@@ -51,8 +51,9 @@ Day - 4 (20th October, Thursday)
 --------------------------------
 41. shell41.sh - Shell script to take the backup of the system
 42. shell42.sh - Shell script to show how to clean log files in Linux (Option - 1)
-
-
+43. shell43.sh - Shell script to show how to clean log files in Linux (Option - 2)
+44. shell44.sh - How to setup cron job in ubuntu
+45. shell45.sh - Sample cron job shell script
 
 
 
